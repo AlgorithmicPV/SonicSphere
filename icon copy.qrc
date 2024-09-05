@@ -1,0 +1,17 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>icons/fire-square-svgrepo-com copy.svg</file>
+    <file>icons/tab-desktop-new-page-svgrepo-com.svg</file>
+    <file>icons/search.svg</file>
+    <file>icons/arrow-left.svg</file>
+    <file>icons/fire-square-svgrepo-com.svg</file>
+    <file>icons/arrow-right.svg</file>
+    <file>icons/home.svg</file>
+    <file>icons/maximize.svg</file>
+    <file>icons/minimize.svg</file>
+    <file>icons/minus.svg</file>
+    <file>icons/refresh-cw.svg</file>
+    <file>icons/x.svg</file>
+    <file>icons/x-circle.svg</file>
+  </qresource>
+</RCC>
